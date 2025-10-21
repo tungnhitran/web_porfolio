@@ -134,7 +134,7 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Isabella."
+    title: "(Alex) Tung Nhi Tran."
     subtitle: "I build things for the web"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
     image: /images/hero.svg
@@ -163,7 +163,7 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
+      I am a software developer with a passion for web development. I have a background in telecommunications and IT, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
 
       I am currently working on a project that will be used to help people find the best way to get around the city.
     skills:
@@ -221,7 +221,7 @@ params:
 
       - company: "Apple"
         companyUrl: "https://example.com"
-        jobs: 
+        jobs:
         - name: "Junior Software Developer"
           date: "Jan 2020 - Aug 2020"
           featuredItems:
